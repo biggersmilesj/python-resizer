@@ -1,5 +1,8 @@
 # python-resizer
-Python script for resize at some fixed resolution.
+Python script for resize video at some fixed resolution.
+
+Required :- FFmpeg :- 
+https://ffmpeg.org/
 
 Follow this steps:-
 - only two option asked on for height and other for width
