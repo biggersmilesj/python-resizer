@@ -1,8 +1,7 @@
 # python-resizer
 Python script for resize at some fixed resolution.
 
-- you can resize by height and width as per your choice.
-- i commented thing that needs to be change for height and width.
-
-- # "scale=-2:pixel" for height
-- # "scale=pixel:-2" for width
+Follow this steps:-
+- only two option asked on for height and other for width
+- put pixels number as per your need.
+- if you video is already satisfying your need then it will only copied not resizing.
